@@ -28,7 +28,7 @@ JavaScript: Game logic and interactivity.
 
 How to Play
 
-1. The game starts with Player X.
+1. The game starts with Player O.
 
 
 2. Click on an empty cell to place your mark.
@@ -41,6 +41,3 @@ How to Play
 
 
 5. If all cells are filled without a winner, it’s a draw.
-
-
-6. Click the "Restart Game" button to reset and play again.
